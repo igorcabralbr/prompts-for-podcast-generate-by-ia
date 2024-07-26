@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast.MP3" controls title="Podcast editado"></audio>
+    <audio src="./output/podcast.MP3?raw=true" controls title="Ouça o Podcast"></audio>
 </div>
 
 # Projeto CriptoCast: Segredos da Segurança Digital

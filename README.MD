@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    "Ouça o podcast em './output/podcast.mp3'"
 </p>
 
 <div align="center">
